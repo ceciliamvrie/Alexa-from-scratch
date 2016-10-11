@@ -1,1 +1,1 @@
-# Alexa-from-sratch
+# Alexa-from-scratch
