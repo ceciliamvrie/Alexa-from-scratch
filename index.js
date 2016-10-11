@@ -28,9 +28,6 @@ switch(event.request.type){
                     {}
                   )
     break;
-
-    default:
-    break;    
 }
   case "SessionEndedRequest":
         // Session Ended Request
